@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">task1_choice_courses</string>
+
+    <string name="select_course">Выберите курс</string>
+    <string name="select">Выбрать</string>
+
+    <string name="nothing_selected">Ничего не выбрано</string>
+    <string name="course_1">Основы Kotlin для Android</string>
+    <string name="course_2">Jetpack Compose: Современный UI</string>
+    <string name="course_3">Backend разработка на Spring Boot</string>
+    <string name="course_4">Flutter: Кроссплатформенная разработка</string>
+    <string name="course_5">Python для Data Science</string>
+    <string name="course_6">JavaScript: От основ до React</string>
+    <string name="course_7">Архитектура мобильных приложений</string>
+    <string name="course_8">Docker и Kubernetes на практике</string>
+    <string name="course_9">iOS разработка на SwiftUI</string>
+    <string name="course_10">Алгоритмы и структуры данных</string>
+
+    <string name="course_1_description">Изучите основы языка Kotlin и создайте свое первое Android приложение. Курс охватывает синтаксис, ООП, функции расширения и корутины. Идеально подходит для начинающих разработчиков.</string>
+    <string name="course_2_description">Освойте декларативный подход к созданию UI в Android. Научитесь создавать красивые и адаптивные интерфейсы с помощью Jetpack Compose, изучите Material Design 3 и анимации.</string>
+    <string name="course_3_description">Станьте backend разработчиком с использованием Spring Boot. Создавайте REST API, работайте с базами данных, изучите Spring Security и микросервисную архитектуру.</string>
+    <string name="course_4_description">Разрабатывайте приложения одновременно для Android и iOS используя Flutter. Изучите Dart, виджеты Flutter, state management и интеграцию с нативными возможностями устройств.</string>
+    <string name="course_5_description">Погрузитесь в мир анализа данных с Python. Освойте библиотеки NumPy, Pandas, Matplotlib, изучите машинное обучение с scikit-learn и создавайте визуализации данных.</string>
+    <string name="course_6_description">От основ JavaScript до современного React. Изучите ES6+, асинхронное программирование, работу с DOM, создание SPA приложений и управление состоянием с Redux.</string>
+    <string name="course_7_description">Научитесь проектировать масштабируемые мобильные приложения. Изучите MVVM, Clean Architecture, принципы SOLID, dependency injection и тестирование архитектуры.</string>
+    <string name="course_8_description">Освойте контейнеризацию и оркестрацию. Научитесь создавать Docker образы, работать с Docker Compose, разворачивать приложения в Kubernetes и настраивать CI/CD pipelines.</string>
+    <string name="course_9_description">Создавайте нативные iOS приложения с SwiftUI. Изучите декларативный синтаксис, навигацию, работу с данными, Core Data и публикацию приложений в App Store.</string>
+    <string name="course_10_description">Фундаментальный курс по алгоритмам и структурам данных. Изучите массивы, списки, деревья, графы, алгоритмы сортировки и поиска, а также анализ сложности алгоритмов.</string>
+
+</resources>
+
